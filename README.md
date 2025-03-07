@@ -1,5 +1,5 @@
 
-#How to run this Project
+# How to run this Project
 
 To manually create a virtualenv on MacOS and Linux:
 
